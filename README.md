@@ -5,6 +5,7 @@
 -  Curriculum: Mahasiswa, Developer, Design
 -  Ketertarikan: Web Development, UI/UX
 -  Sedang Belajar: C++ & python maybe
+
 ![Profile Views](https://komarev.com/ghpvc/?username=afaninMusfida1&style=flat-square&color=blue)
 ---
 
