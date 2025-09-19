@@ -4,7 +4,7 @@
 -  Nama: **Afanin** (username: `afaninMusfida1`)
 -  Curriculum: Mahasiswa, Developer, Design
 -  Ketertarikan: Web Development, UI/UX
--  Sedang Belajar: C++
+-  Sedang Belajar: C++ & python maybe
 
 ---
 
