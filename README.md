@@ -5,7 +5,7 @@
 -  Curriculum: Mahasiswa, Developer, Design
 -  Ketertarikan: Web Development, UI/UX
 -  Sedang Belajar: C++ & python maybe
-
+![Profile Views](https://komarev.com/ghpvc/?username=afaninMusfida1&style=flat-square&color=blue)
 ---
 
 ## 🛠️ Tech Stack
@@ -32,7 +32,6 @@ Berikut beberapa project yang sudah aku kerjakan:
 ##  Statistik GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afaninMusfida1&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afaninMusfida1&layout=compact&theme=tokyonight)
-![Profile Views](https://komarev.com/ghpvc/?username=afaninMusfida1&style=flat-square&color=blue)
 ---
 
 ##  Let's Connect!
