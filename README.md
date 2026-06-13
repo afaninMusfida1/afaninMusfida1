@@ -4,7 +4,7 @@
 -  Nama: **Afanin** (username: `afaninMusfida1`)
 -  Curriculum: Mahasiswa, Developer, Design
 -  Ketertarikan: Web Development, UI/UX
--  Sedang Belajar: C++ & python maybe
+-  Sedang Belajar: Java
 
 ![Profile Views](https://komarev.com/ghpvc/?username=afaninMusfida1&style=flat-square&color=blue)
 ---
@@ -14,7 +14,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
 ---
